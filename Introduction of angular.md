@@ -30,10 +30,10 @@
  ->Fastest and easiest 
  ->It uses ```package.json``` file to install all necessary libraries, packages for angular
  * some cli commands are
- 	``ng build `` --->compile an angular app into an output directory
-	``ng serve`` --->build & serve your application, rebuild on file changes
-	``ng generate``--->Generate/Modifies files based on a schematic
-	``ng test``---> Runs unit tests on a given project
+ * ``ng build `` --->compile an angular app into an output directory
+ * ``ng serve`` --->build & serve your application, rebuild on file changes
+ * ``ng generate``--->Generate/Modifies files based on a schematic
+ * ``ng test``---> Runs unit tests on a given project
  ## Create angular application
  * Angular CLI helps us to setup workspace & initial application quickly, which includes necessary npm libraries and dependencies for application
  * create new project --->``ng new projectname``
